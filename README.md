@@ -4,31 +4,42 @@
 
 ### `data_scientist && ml_engineer`
 
-*Data Scientist & Machine Learning Engineer avec une solide base en mathématiques et IA appliquée.*  
-*Spécialisé dans la conception de systèmes ML end-to-end — du prétraitement à la production.*
+**Data Scientist & Machine Learning Engineer** with a strong background in mathematics, statistics, and applied AI.  
+Focused on building **end-to-end machine learning systems** and research-oriented solutions in **NLP, Speech/ASR, and low-resource AI**.
 
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Collaboration-3fb950?style=flat-square&logo=github)](https://github.com/Romusthagore)
-[![Location](https://img.shields.io/badge/Location-Cotonou%2C%20Bénin-0891b2?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Cotonou,Benin)
 [![Email](https://img.shields.io/badge/Email-romuald.ahomagnon%40aims--cameroon.org-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romuald.ahomagnon@aims-cameroon.org)
 
 </div>
 
 ---
 
-## 🧠 Domaines d'expertise
+## 🧠 Areas of Expertise
 
-| Domaine | Compétences |
-|---------|-------------|
-| **ML & Deep Learning** | Transformers, LLMs, Computer Vision (YOLOv10, I3D), Anomaly Detection, Time Series |
-| **NLP & RAG Systems** | Retrieval-Augmented Generation, Semantic Search, Vector DBs (FAISS), Embeddings |
-| **MLOps & Déploiement** | MLflow, Docker, FastAPI, Pipelines automatisés, Monitoring de modèles |
-| **Statistiques & Maths** | Inférence statistique, Processus stochastiques, Optimisation, Algèbre linéaire |
+| Area | Focus |
+|------|-------|
+| **NLP & Speech** | Transformers, LLMs, Automatic Speech Recognition, Low-Resource NLP, Multilingual Models |
+| **ML & Deep Learning** | PyTorch, TensorFlow, Computer Vision, Anomaly Detection, Time Series |
+| **RAG & Information Retrieval** | Retrieval-Augmented Generation, Semantic Search, Embeddings, FAISS |
+| **Statistical ML** | Statistical Inference, Probability, Optimization, Nonparametric Statistics |
+| **MLOps & Deployment** | MLflow, Docker, FastAPI, Automated Pipelines, Model Evaluation |
 
 ---
 
-## 🚀 Stack Technique
+## 🔬 Current Research Interests
 
-**Langages**
+- 🎙️ **Automatic Speech Recognition for African Languages**
+- 🌍 **Low-resource and multilingual NLP**
+- 🤗 **Transformer-based models for African languages**
+- 📊 **Statistical Machine Learning**
+- 🧠 **Representation Learning and Transfer Learning**
+- 🔎 **Evaluation of LLMs and multilingual models**
+
+---
+
+## 🚀 Technical Stack
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -36,16 +47,23 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**AI / ML Frameworks**
+### AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-**Dev & Infrastructure**
+### Speech & NLP
+
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
+![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Dev & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -56,67 +74,112 @@
 
 ---
 
-## 📊 Métriques Clés
+## 📊 Selected Results
 
 <div align="center">
 
-| Projet | Métrique | Score |
-|--------|----------|-------|
-| 🔍 RAG System (KES Inspections) | Similarity Score | **> 0.79** · latence < 100ms |
-| 🚗 ALPR System (YOLOv10) | mAP@50 | **0.95** sur données réelles |
-| 🤚 Gesture Recognition (I3D) | Accuracy | **94.2%** temps réel |
-| 🌱 Agriculture ML (Springer) | R² Score | **> 0.98** |
+| Project | Metric | Result |
+|---------|--------|--------|
+| 🔍 KES Inspection RAG | Similarity Score | **> 0.79** · < 100 ms latency |
+| 🚗 ALPR — YOLOv10 | mAP@50 | **0.95** on real-world data |
+| 🤚 Gesture Recognition — I3D | Accuracy | **94.2%** real-time |
+| 🌱 Precision Agriculture | R² | **> 0.98** |
 
 </div>
 
 ---
 
-## 📁 Projets Sélectionnés
+## 📁 Selected Projects
 
-### 🔍 Système RAG pour inspection électrique
-> LLM + FAISS + embeddings sémantiques pour transformer des notes d'inspection brutes en rapports structurés conformes aux réglementations.  
-> **Stack :** LangChain · FAISS · FastAPI · HuggingFace
+### 🎙️ Automatic Speech Recognition for African Languages
 
-### 🚗 Reconnaissance automatique de plaques (ALPR)
-> Pipeline Computer Vision end-to-end avec YOLOv10 + OCR adapté aux contraintes terrain locales.  
-> **Stack :** YOLOv10 · OpenCV · Python
+Research and experimentation with **speech recognition models for low-resource African languages**, including model fine-tuning, dataset analysis, and evaluation.
 
-### 🔔 Détection d'anomalies (systèmes industriels)
-> LSTM autoencoders + tests d'hypothèses statistiques sur données capteurs multivariées.  
-> **Stack :** PyTorch · Scikit-learn · NumPy
-
-### 🛡️ Détection de fraude
-> Apprentissage supervisé sur datasets fortement déséquilibrés. Méthodes ensemblistes avec cost-sensitive learning.  
-> **Stack :** Scikit-learn · XGBoost · Pandas
+**Models:** Wav2Vec2 · Wav2Vec2-BERT 2.0 · AfriHuBERT · Whisper  
+**Evaluation:** WER · CER  
+**Focus:** Low-resource ASR · Transfer Learning · Multilingual Speech
 
 ---
 
-## 📄 Publication Scientifique
+### 🌍 Low-Resource NLP & African Languages
 
-> **Machine Learning for Precision Agriculture using Hybrid Solar Drying Systems**  
-> *Journal of Big Data (Springer Nature) — Under Review*  
-> Premier auteur · Feature Selection (Random Forest) · PCA · **R² > 0.98**
+Experiments on multilingual and cross-lingual NLP for African languages, including sentiment analysis, language evaluation, and benchmark construction.
 
----
-
-## 🎓 Formation
-
-- 🏛️ **AIMS Cameroon** — Postgraduate Diploma in Data Science *(Sept 2024 – Fév 2026)*
-- 🏛️ **IMSP Bénin** — MSc Statistiques & Probabilités *(2022 – 2024)*
-- 🏛️ **IMSP Bénin** — BSc Mathématiques *(2019 – 2022)*
+**Focus:** Transformers · XLM-R · Cross-lingual Transfer · Class Imbalance · Evaluation
 
 ---
 
-## 🌐 Me retrouver
+### 🔍 RAG System for Electrical Inspections
+
+End-to-end retrieval-augmented system designed to transform raw inspection notes into structured reports aligned with electrical safety regulations.
+
+**Stack:** LangChain · FAISS · Sentence Transformers · FastAPI · HuggingFace
+
+---
+
+### 🚗 Automatic License Plate Recognition — ALPR
+
+End-to-end computer vision pipeline for automatic license plate recognition under real-world local conditions.
+
+**Stack:** YOLOv10 · OCR · OpenCV · Python  
+**Result:** **0.95 mAP@50**
+
+---
+
+### 🔔 Industrial Anomaly Detection
+
+Multivariate sensor anomaly detection combining deep learning and statistical hypothesis testing.
+
+**Stack:** PyTorch · LSTM Autoencoders · Scikit-learn · NumPy
+
+---
+
+### 🛡️ Fraud Detection
+
+Supervised learning for highly imbalanced datasets using ensemble methods and cost-sensitive learning.
+
+**Stack:** Scikit-learn · XGBoost · Pandas
+
+---
+
+## 📄 Scientific Work
+
+### *Machine Learning for Precision Agriculture using Hybrid Solar Drying Systems*
+
+**Journal of Big Data — Under Review**
+
+First author · Random Forest Feature Selection · PCA · Machine Learning
+
+---
+
+## 🎓 Education
+
+- 🏛️ **AIMS Cameroon** — Data Science  
+  *Sep 2024 – Feb 2026*
+
+- 🏛️ **IMSP, Benin** — MSc in Statistics & Probability  
+  *2022 – 2024 · Mention Bien*
+
+- 🏛️ **IMSP, Benin** — BSc in Mathematics  
+  *2019 – 2022*
+
+---
+
+## 🌐 Find Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Romusthagore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Romusthagore)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-romuald--ahomagnon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romuald-ahomagnon/)
+
+</div>
 
 ---
 
-*"Turning data into impactful solutions, one model at a time."*
+<div align="center">
+
+*"Building machine learning systems for real-world and low-resource problems."*
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Romusthagore&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&hide_border=true)
 
