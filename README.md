@@ -4,8 +4,9 @@
 
 ### `data_scientist && ml_engineer`
 
-**Data Scientist & Machine Learning Engineer** with a strong background in mathematics, statistics, and applied AI.  
-Currently working on **NLP, Speech/ASR, low-resource African languages, and multilingual model evaluation**.
+**Data Scientist & Machine Learning Engineer** with a strong background in mathematics, statistics, and applied AI.
+
+Currently working on **Speech/ASR, low-resource African languages, multilingual NLP, and machine learning evaluation**, while building end-to-end ML systems for real-world applications.
 
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Collaboration-3fb950?style=flat-square&logo=github)](https://github.com/Romusthagore)
 [![Email](https://img.shields.io/badge/Email-romuald.ahomagnon%40aims--cameroon.org-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romuald.ahomagnon@aims-cameroon.org)
@@ -14,14 +15,14 @@ Currently working on **NLP, Speech/ASR, low-resource African languages, and mult
 
 ---
 
-## 🔬 Current Work
+## 🔬 Current Focus
 
 - 🎙️ **Automatic Speech Recognition for African Languages**
 - 🌍 **Low-resource and multilingual NLP**
-- 📊 **Multilingual model evaluation and benchmarking**
-- 🗣️ **African language datasets and benchmarks**
+- 📊 **Speech and language model benchmarking**
+- 🗣️ **African language datasets and evaluation**
 - 🤗 **Transformer-based models and cross-lingual transfer**
-- 🧪 **Machine learning experimentation and model evaluation**
+- 🧪 **Machine learning experimentation and reproducible evaluation**
 
 ---
 
@@ -29,12 +30,13 @@ Currently working on **NLP, Speech/ASR, low-resource African languages, and mult
 
 | Area | Focus |
 |------|-------|
-| **NLP & Speech** | Transformers, ASR, Low-Resource NLP, Multilingual Models, Cross-Lingual Transfer |
-| **Model Evaluation** | Benchmarking, WER, CER, Accuracy, F1, Cross-Lingual Evaluation |
-| **ML & Deep Learning** | PyTorch, TensorFlow, Computer Vision, Anomaly Detection, Time Series |
-| **RAG & Information Retrieval** | RAG, Semantic Search, Embeddings, FAISS, Vector Retrieval |
-| **Statistics & Mathematical ML** | Statistical Inference, Probability, Optimization, Nonparametric Statistics |
-| **MLOps & Deployment** | Docker, FastAPI, MLflow, Model Pipelines, Git |
+| **Speech & NLP** | ASR, Transformers, Low-Resource NLP, Multilingual Models, Cross-Lingual Transfer |
+| **Model Evaluation** | WER, CER, Accuracy, F1, Benchmarking, Error Analysis |
+| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, XGBoost, Deep Learning |
+| **RAG & Information Retrieval** | RAG, Semantic Search, Embeddings, FAISS |
+| **Computer Vision** | YOLOv10, OCR, Image Classification, Real-Time Vision |
+| **Statistics & Mathematics** | Statistical Inference, Probability, Optimization, Nonparametric Statistics |
+| **MLOps & Deployment** | Docker, FastAPI, MLflow, Git, Model Pipelines |
 
 ---
 
@@ -50,11 +52,12 @@ Currently working on **NLP, Speech/ASR, low-resource African languages, and mult
 
 ### NLP & Speech
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
 ![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![AfriHuBERT](https://img.shields.io/badge/AfriHuBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### Machine Learning
 
@@ -64,7 +67,7 @@ Currently working on **NLP, Speech/ASR, low-resource African languages, and mult
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-### Dev & Infrastructure
+### MLOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -75,51 +78,49 @@ Currently working on **NLP, Speech/ASR, low-resource African languages, and mult
 
 ---
 
-## 📊 Selected Results
+## 📁 Featured Projects
 
-<div align="center">
+### 🎙️ [Low-Resource ASR Benchmark](https://github.com/Romusthagore/low-resource-asr-benchmark)
 
-| Project | Metric | Result |
-|---------|--------|--------|
-| 🔍 KES Inspection RAG | Similarity Score | **> 0.79** · < 100 ms latency |
-| 🚗 ALPR — YOLOv10 | mAP@50 | **0.95** on real-world data |
-| 🤚 Gesture Recognition — I3D | Accuracy | **94.2%** real-time |
-| 🌱 Precision Agriculture | R² | **> 0.98** |
+Comparative evaluation of pretrained speech models for **low-resource automatic speech recognition**.
 
-</div>
+**Focus:** Speech Models · African Languages · Benchmarking · WER · CER
 
 ---
 
-## 📁 Selected Projects
+### 🗣️ [Luhya ASR — Wav2Vec2-BERT 2.0](https://github.com/Romusthagore/luhya-asr_w2v-bert)
 
-### 🎙️ Automatic Speech Recognition for African Languages
+Fine-tuning **Wav2Vec2-BERT 2.0 (580M parameters)** for automatic speech recognition in Luhya, a Bantu language spoken in Kenya.
 
-Research and experimentation with speech recognition models for **low-resource African languages**, including dataset analysis, model fine-tuning, and evaluation.
-
-**Models:** Wav2Vec2 · Wav2Vec2-BERT 2.0 · AfriHuBERT · Whisper  
-**Evaluation:** WER · CER  
-**Focus:** Low-Resource ASR · Transfer Learning · Multilingual Speech
+**Focus:** Low-Resource ASR · Transfer Learning · Speech Recognition · PyTorch
 
 ---
 
-### 🌍 Low-Resource NLP & African Languages
+### 🔎 [ASR Dataset Explorator](https://github.com/Romusthagore/asr-data_explorator)
 
-Experiments on multilingual and cross-lingual NLP for African languages, including sentiment analysis, language evaluation, and benchmark construction.
+Automated analysis and reporting pipeline for speech recognition datasets.
 
-**Models:** XLM-R · Transformers  
-**Focus:** Cross-Lingual Transfer · Class Imbalance · Multilingual Evaluation
-
----
-
-### 📊 Multilingual Model Evaluation & Benchmarking
-
-Evaluation of language models and multilingual systems on African-language benchmarks, with a focus on reproducible evaluation and language-specific performance.
-
-**Focus:** Benchmarking · Prompt Evaluation · Multilingual NLP · African Languages
+**Focus:** Dataset Analysis · Data Quality · Speech Data · Reproducible Evaluation
 
 ---
 
-### 🔍 RAG System for Electrical Inspections
+### 🌍 [AfriSenti — Twi Error Analysis](https://github.com/Romusthagore/AfriSenti-Error-Analysis-Twi)
+
+Error analysis of **AfroXLM-R** for sentiment classification in Twi, with a focus on class imbalance and neutral-class instability.
+
+**Focus:** African NLP · XLM-R · Sentiment Analysis · Error Analysis · Class Imbalance
+
+---
+
+### 🧪 African Language Evaluation
+
+Work on multilingual model evaluation and African-language benchmarks, including language-specific evaluation and benchmark construction.
+
+**Focus:** Multilingual NLP · LLM Evaluation · African Languages · Benchmarking
+
+---
+
+### 🔍 [RAG System for Electrical Inspections](https://github.com/Romusthagore/Ai_inspectionElectrique)
 
 End-to-end retrieval-augmented system designed to transform raw inspection notes into structured reports aligned with electrical safety regulations.
 
@@ -127,11 +128,12 @@ End-to-end retrieval-augmented system designed to transform raw inspection notes
 
 ---
 
-### 🚗 Automatic License Plate Recognition — ALPR
+### 🚗 [Smart Plate Detection](https://github.com/Romusthagore/Smart-Plate-Detection)
 
-End-to-end computer vision pipeline for automatic license plate recognition under real-world local conditions.
+Automatic license plate detection and recognition using **YOLOv10 + OCR**, with support for images, videos, and webcam input.
 
-**Stack:** YOLOv10 · OCR · OpenCV · Python  
+**Stack:** YOLOv10 · OCR · OpenCV · Python
+
 **Result:** **0.95 mAP@50**
 
 ---
@@ -144,11 +146,18 @@ Multivariate sensor anomaly detection combining deep learning and statistical hy
 
 ---
 
-### 🛡️ Fraud Detection
+## 📊 Selected Results
 
-Supervised learning for highly imbalanced datasets using ensemble methods and cost-sensitive learning.
+<div align="center">
 
-**Stack:** Scikit-learn · XGBoost · Pandas
+| Project | Metric | Result |
+|---------|--------|--------|
+| 🚗 ALPR — YOLOv10 | mAP@50 | **0.95** |
+| 🤚 Gesture Recognition — I3D | Accuracy | **94.2%** |
+| 🔍 KES Inspection RAG | Similarity Score | **> 0.79** |
+| 🌱 Precision Agriculture | R² | **> 0.98** |
+
+</div>
 
 ---
 
