@@ -5,7 +5,7 @@
 ### `data_scientist && ml_engineer`
 
 **Data Scientist & Machine Learning Engineer** with a strong background in mathematics, statistics, and applied AI.  
-Focused on building **end-to-end machine learning systems** and research-oriented solutions in **NLP, Speech/ASR, and low-resource AI**.
+Currently working on **NLP, Speech/ASR, low-resource African languages, and multilingual model evaluation**.
 
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Collaboration-3fb950?style=flat-square&logo=github)](https://github.com/Romusthagore)
 [![Email](https://img.shields.io/badge/Email-romuald.ahomagnon%40aims--cameroon.org-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romuald.ahomagnon@aims-cameroon.org)
@@ -14,26 +14,27 @@ Focused on building **end-to-end machine learning systems** and research-oriente
 
 ---
 
+## 🔬 Current Work
+
+- 🎙️ **Automatic Speech Recognition for African Languages**
+- 🌍 **Low-resource and multilingual NLP**
+- 📊 **Multilingual model evaluation and benchmarking**
+- 🗣️ **African language datasets and benchmarks**
+- 🤗 **Transformer-based models and cross-lingual transfer**
+- 🧪 **Machine learning experimentation and model evaluation**
+
+---
+
 ## 🧠 Areas of Expertise
 
 | Area | Focus |
 |------|-------|
-| **NLP & Speech** | Transformers, LLMs, Automatic Speech Recognition, Low-Resource NLP, Multilingual Models |
+| **NLP & Speech** | Transformers, ASR, Low-Resource NLP, Multilingual Models, Cross-Lingual Transfer |
+| **Model Evaluation** | Benchmarking, WER, CER, Accuracy, F1, Cross-Lingual Evaluation |
 | **ML & Deep Learning** | PyTorch, TensorFlow, Computer Vision, Anomaly Detection, Time Series |
-| **RAG & Information Retrieval** | Retrieval-Augmented Generation, Semantic Search, Embeddings, FAISS |
-| **Statistical ML** | Statistical Inference, Probability, Optimization, Nonparametric Statistics |
-| **MLOps & Deployment** | MLflow, Docker, FastAPI, Automated Pipelines, Model Evaluation |
-
----
-
-## 🔬 Current Research Interests
-
-- 🎙️ **Automatic Speech Recognition for African Languages**
-- 🌍 **Low-resource and multilingual NLP**
-- 🤗 **Transformer-based models for African languages**
-- 📊 **Statistical Machine Learning**
-- 🧠 **Representation Learning and Transfer Learning**
-- 🔎 **Evaluation of LLMs and multilingual models**
+| **RAG & Information Retrieval** | RAG, Semantic Search, Embeddings, FAISS, Vector Retrieval |
+| **Statistics & Mathematical ML** | Statistical Inference, Probability, Optimization, Nonparametric Statistics |
+| **MLOps & Deployment** | Docker, FastAPI, MLflow, Model Pipelines, Git |
 
 ---
 
@@ -47,21 +48,21 @@ Focused on building **end-to-end machine learning systems** and research-oriente
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### AI / ML
+### NLP & Speech
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-
-### Speech & NLP
-
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
 ![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### Dev & Infrastructure
 
@@ -93,11 +94,11 @@ Focused on building **end-to-end machine learning systems** and research-oriente
 
 ### 🎙️ Automatic Speech Recognition for African Languages
 
-Research and experimentation with **speech recognition models for low-resource African languages**, including model fine-tuning, dataset analysis, and evaluation.
+Research and experimentation with speech recognition models for **low-resource African languages**, including dataset analysis, model fine-tuning, and evaluation.
 
 **Models:** Wav2Vec2 · Wav2Vec2-BERT 2.0 · AfriHuBERT · Whisper  
 **Evaluation:** WER · CER  
-**Focus:** Low-resource ASR · Transfer Learning · Multilingual Speech
+**Focus:** Low-Resource ASR · Transfer Learning · Multilingual Speech
 
 ---
 
@@ -105,7 +106,16 @@ Research and experimentation with **speech recognition models for low-resource A
 
 Experiments on multilingual and cross-lingual NLP for African languages, including sentiment analysis, language evaluation, and benchmark construction.
 
-**Focus:** Transformers · XLM-R · Cross-lingual Transfer · Class Imbalance · Evaluation
+**Models:** XLM-R · Transformers  
+**Focus:** Cross-Lingual Transfer · Class Imbalance · Multilingual Evaluation
+
+---
+
+### 📊 Multilingual Model Evaluation & Benchmarking
+
+Evaluation of language models and multilingual systems on African-language benchmarks, with a focus on reproducible evaluation and language-specific performance.
+
+**Focus:** Benchmarking · Prompt Evaluation · Multilingual NLP · African Languages
 
 ---
 
@@ -113,7 +123,7 @@ Experiments on multilingual and cross-lingual NLP for African languages, includi
 
 End-to-end retrieval-augmented system designed to transform raw inspection notes into structured reports aligned with electrical safety regulations.
 
-**Stack:** LangChain · FAISS · Sentence Transformers · FastAPI · HuggingFace
+**Stack:** Sentence Transformers · FAISS · LangChain · FastAPI · HuggingFace
 
 ---
 
